@@ -1,0 +1,23 @@
+# --- Directorios de Compilación (Maven) ---
+target/
+*.war
+*.ear
+*.zip
+*.tar.gz
+
+# --- Archivos de configuración del IDE (VS Code) ---
+.vscode/
+.settings/
+.classpath
+.project
+*.factorypath
+bin/
+
+# --- Archivos temporales y Logs ---
+*.log
+tmp/
+temp/
+
+# --- Otros ---
+.DS_Store
+Thumbs.db
